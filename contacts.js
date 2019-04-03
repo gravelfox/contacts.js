@@ -1,6 +1,9 @@
 //condensed as much as possible from components to keep it all on one file to (hopefully)
 //improve readability...
 
+//a live version of this page is at trustyraven.com/contacts. Log-in as joe.schmo@trustyraven.com
+//with the password "parsnip273".
+
 
 import React, { Component } from "react";
 import { FormGroup, FormControl, ControlLabel, Button, Checkbox, Modal } from "react-bootstrap";
