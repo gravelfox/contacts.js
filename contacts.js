@@ -1,3 +1,7 @@
+//condensed as much as possible from components to keep it all on one file to (hopefully)
+//improve readability...
+
+
 import React, { Component } from "react";
 import { FormGroup, FormControl, ControlLabel, Button, Checkbox, Modal } from "react-bootstrap";
 import LoaderButton from "../components/LoaderButton";
